@@ -143,6 +143,8 @@
     'www.sospark.pro.bd',
     'sparkforge.pro.bd',
     'www.sparkforge.pro.bd',
+    'www.sosparkforge.pro.bd',
+    'sosparkforge.pro.bd',
     'soahimrahman.github.io',   // covers /sparkforgev8, /sparkforgev8.1, ALL subfolders
   ];
   var _host = (window.location.hostname || '').toLowerCase();
